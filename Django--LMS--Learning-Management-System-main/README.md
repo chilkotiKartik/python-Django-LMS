@@ -73,7 +73,7 @@ To set up this project locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/AbdullahBakir97/Django--LMS--Learning-Management-System.git
+    git clone https://github.com/Django--LMS--Learning-Management-System.git
     cd Django--LMS--Learning-Management-System
     ```
 
